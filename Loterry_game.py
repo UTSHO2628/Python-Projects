@@ -17,5 +17,4 @@ def number_guessing_game():
 
     print(f"Congratulations! You've guessed the number in {attempts} attempts.")
 
-
 number_guessing_game()
