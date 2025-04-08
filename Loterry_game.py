@@ -1,6 +1,5 @@
 import random
 
-
 def number_guessing_game():
     number_to_guess = random.randint(1, 10)
     guess = None
